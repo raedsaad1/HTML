@@ -1,0 +1,22 @@
+body{
+font-family: 'Odibee Sans', cursive;
+font-size:10px
+}
+.heading1{
+background-color:#33EBFF;
+border : 3px solid black;
+border-radius:10px;
+padding: 20px 50px;
+margin-top:20px;
+}
+
+
+#heading5{background-color:rgba(255, 99, 71, 0.5);}
+
+
+h6 {
+    color:red;
+    background-color: black;
+}
+.image{
+width: 250px
